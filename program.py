@@ -1,1 +1,1 @@
-print('Mi chiamo Mariia!')
+print('My name is Mariia!')
